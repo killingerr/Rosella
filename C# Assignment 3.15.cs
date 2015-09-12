@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 9/10 Code is good but missing comments.
+
 namespace ConsoleApplication1
 {
     class Program
