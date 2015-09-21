@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 9/10 Height should be taken in inches to allow for heights such as 5' 5" - this would be entered as 65 inches. No comments. 
 namespace ConsoleApplication1
 {
     class Program
