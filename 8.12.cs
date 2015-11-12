@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 8.5/10
+//Requirements state " inputs 5 numbers, each of which is between 10 and 100", your program is not validating the numbers
+//Requirements state "as each number is read, display it only if it is not a duplicate of a number already read...", your program takes all 5 numbers and then does the display
+//Program displays a blank line if a number is a duplicate, while this was not explicitly stated, there should not be a blank line.
+
 namespace Assignment_8._12
 {
     class Program
@@ -16,7 +21,7 @@ namespace Assignment_8._12
             Console.WriteLine("Enter five numbers between 10 and 100");
             for (int i = 0; i < array.Length; i++) //For loop for array
             {
-
+                
                 array[i] = Convert.ToInt32(Console.ReadLine());  //User input stored in array
 
 

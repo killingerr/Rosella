@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Extra Credit: 3 points
+//Missing Requirements:
+//Provide a property with a get and set accessor for any instance variables
+//For quantity and price per item, If the value passed to the set accessor is negative the instance variables should be left unchanged
+//Create a method GetInvoiceAmount that should return the amount - your method does not return the value, it just writes it to the console
 namespace Assignment
 {
     public class InvoiceClass
