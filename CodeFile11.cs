@@ -1,6 +1,6 @@
 ﻿using System;
 
-
+//Grade: 10
     public class Person  //Base class
     {
         private string firstName;
