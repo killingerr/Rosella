@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 9.5/10 - Make sure you are formatting your code correctly.  It should be very clear to me where a code block
+//               begins and ends.  I should be able to visually match the open and closed braces.
+
 namespace Assignment_7._30
 {
     class Program

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 9.5/10
 namespace _8._17
 {
     class Dice
@@ -17,7 +18,7 @@ namespace _8._17
             
             int[] dArray = new int[13];  // Array declaration and initialization
 
-
+            //The program should roll the dice 36,000 times, you are looping from 1 to roll < 36,000 which will roll the dice 35,999
             for (int roll = 1; roll < 36000; roll++)
             {
                 face1 = randomNum.Next(1, 7);  // Random roll for dice 1

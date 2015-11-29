@@ -8,6 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Grade: 8
+//Missing requirements:
+//The red/blue change should be baesd on whether or not the guesses are getting closer to or farther from not if they are too low or too high (no points deducted this was not well understood)
+//The textbox was to be disabled on a correct guess (points deducted)
+//There should be a button to generate a new number if the user wants to play again (points deducted)
+
+//Observations
+//I was a bit disappointed in your user interface, the button text was button1, there just wasn't much effort here
 namespace Assignment14._8
 {
     public partial class Form1 : Form

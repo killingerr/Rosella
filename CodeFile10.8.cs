@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//Grade 8 - You did not create the test program
 public class IntegerSet
 {
     bool[] array1 = new bool[101];  // Array with 100 elements
