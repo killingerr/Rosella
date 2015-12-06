@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Grade:10
+//Observations: It's great that you added validation to the setter for Wage, but what's not clear is why Piece is readonly and Wage is not.  I won't deduct pionts for this but it seems a bit sloppy.
 public class PieceWorker : Employee
 {
 
