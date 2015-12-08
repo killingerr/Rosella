@@ -15,3 +15,12 @@ G:\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
 G:\RPS\RPS\obj\Debug\RPS.Form1.resources
 G:\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
 G:\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.pdb
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.Form1.resources
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
+C:\Users\Tony\Documents\GitHub\Rosella\Final Project\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
