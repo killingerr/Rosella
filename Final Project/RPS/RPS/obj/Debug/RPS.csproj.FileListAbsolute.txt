@@ -1,0 +1,17 @@
+C:\Game Development Projects\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Game Development Projects\RPS\RPS\bin\Debug\RPS.exe
+C:\Game Development Projects\RPS\RPS\bin\Debug\RPS.pdb
+C:\Game Development Projects\RPS\RPS\obj\Debug\RPS.Form1.resources
+C:\Game Development Projects\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
+C:\Game Development Projects\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
+C:\Game Development Projects\RPS\RPS\obj\Debug\RPS.exe
+C:\Game Development Projects\RPS\RPS\obj\Debug\RPS.pdb
+G:\RPS\RPS\bin\Debug\RPS.exe.config
+G:\RPS\RPS\obj\Debug\RPS.exe
+G:\RPS\RPS\obj\Debug\RPS.pdb
+G:\RPS\RPS\bin\Debug\RPS.exe
+G:\RPS\RPS\bin\Debug\RPS.pdb
+G:\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+G:\RPS\RPS\obj\Debug\RPS.Form1.resources
+G:\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
+G:\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
